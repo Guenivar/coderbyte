@@ -1,0 +1,14 @@
+1. Partition: Invalid, smaller than; Boundary values: ∞ - 9
+2. Partition: Valid; Boundary values: 10 - 99
+3. Partition: Invalid, bigger than; Boundary values: 100 - ∞
+
+2. 
+1."Helpers 1 & 2, hold the supports in place, while helper 3 and I connect them to each other using some of the remaining logs by hammering some nails in."
+After that I would ask the manager to help by procuring a ladder. 
+2. "Helper 1, start placing logs on the topmost connecting logs so they form a roof"
+3. "Helper 2 distribute nails to myself and helper 3 when we need them"
+4. "Helper 3 nail the left end of the roof, while I nail the right end.  
+
+3. 
+Give two potions to each mouse. When one mouse dies, we know which 2 potion are safe which 2 contain the poison and how long it takes for the poison to act. 
+Give the mouse that survived one of the 2 potions which contain the poison. If it dies, that one is the poison. If it survives the other one is the poison.
