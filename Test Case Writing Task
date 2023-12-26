@@ -1,0 +1,34 @@
+Test Case: 1
+Test Case Description: Check response when valid information is entered.
+Test Steps:
+  1.Go to Loan Creation page
+  2.Click on the "+" sign
+  3. Enter Name
+  4. Enter Balance
+  5. Enter Rate
+  6. Click "Save" button
+Test Data: Name: Steven; Balance: 100; Rate: 20
+Expected Result: Loan created successfully.
+
+
+Test Case: 2 
+Test Case: Check results on entering when invalid information is entered.
+Test Steps:
+  1. Go to Loan Creation page
+  2. Click on the "+" sign
+  3. Attempt to enter Name
+  4. Attempt to enter Balance
+  5. Attempt to enter Rate
+  6. Click "Save" button
+Test Data: Name: !@#&; Balance: -100; Rate: 120
+Expected Result: Loan failed to create.
+
+
+Test Case: 3
+Test Case: Check results when fields are left blank.
+Test Steps: 
+  1.Go to Loan Creation page
+  2. Click on the "+" sign
+  3. Click "Save" button
+Test Data: None
+Expected Result: Loan failed to create.
