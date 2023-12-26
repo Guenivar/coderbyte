@@ -1,0 +1,2 @@
+UPDATE dbo.Accounts SET Active = 1 WHERE AccountName = "FHLB Borrowing";
+SELECT AccountName, AccountType FROM dbo.Accounts JOIN dbo.AccountType ON dbo.Accounts.ID = dbo.AccountType.AccountID;
